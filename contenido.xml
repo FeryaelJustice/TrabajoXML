@@ -39,10 +39,12 @@
 	<question id="cuartaPregunta">
 		<separador>Cuarta pregunta:</separador>
 		<title>4. Cómo se crea la música electrónica?</title>
-		<option>Con programas de ordenador de inteligencia artificial.</option>
+		<option>Con programas de ordenador
+			de inteligencia artificial.</option>
 		<option>Con instrumentos artesanos.</option>
 		<option>Con programas "DAW".</option>
-		<option>Manipulando sonido a sonido en un programa las ondas.</option>
+		<option>Manipulando sonido a sonido
+			en un programa las ondas.</option>
 		<answer>2</answer>
   </question>
 	<question id="quintaPregunta">
