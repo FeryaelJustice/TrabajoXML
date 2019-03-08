@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE questions>
+<questions>
+	<presentation>
+	<pres>
+		<h1>Examen Música Electrónica</h1>
+		<h2>-------------------------</h2>
+		<h3>INSTRUCCIONES:</h3>
+		<h4>Hay más de una opción correcta, el examen es sobre 10 puntos, cada pregunta correcta vale un punto, ¡buena suerte!</h4>
+	</pres>
+	</presentation>
+  <question id="primeraPregunta">
+		<separador id="preg1">Primera pregunta:</separador>
+		<title>1. ¿Qué significan las siglas "EDM"?</title>
+		<radio>Electrónica De Mierda</radio>
+		<radio>Electrónica Digital Musical</radio>
+		<radio>Electronic Dual Music</radio>
+		<radio>Electronic Dance Music</radio>
+		<answer>3</answer>
+	</question>
+  <question id="segundaPregunta">
+		<separador>Segunda pregunta:</separador>
+		<title>2. ¿Cuál fue la denominada "Época Dorada" de la música electrónica?</title>
+		<option>Años 2010-2014</option>
+		<option>Años 2008-2012</option>
+		<option>Años 2012-2015</option>
+		<option>Años 2008-2009</option>
+		<answer>2</answer>
+  </question>
+  <question id="terceraPregunta">
+		<separador>Tercera pregunta:</separador>
+		<title>3. ¿Cuál es el festival más importante dentro de la música electrónica?</title>
+		<option>Ultra Music Festival</option>
+		<option>Lollapalooza</option>
+		<option>Electric Daisy Carnival</option>
+		<option>Tomorrowland</option>
+		<answer>3</answer> 
+  </question>
+	<question id="cuartaPregunta">
+		<separador>Cuarta pregunta:</separador>
+		<title>4. Cómo se crea la música electrónica?</title>
+		<option>Con programas de ordenador de inteligencia artificial.</option>
+		<option>Con instrumentos artesanos.</option>
+		<option>Con programas "DAW".</option>
+		<option>Manipulando sonido a sonido en un programa las ondas.</option>
+		<answer>2</answer>
+  </question>
+	<question id="quintaPregunta">
+		<separador>Quinta pregunta:</separador>
+		<title>5. Dime cuál es el género de la música de la electrónica el cual se basa en tener al menos Kicks potentes, sonidos muy abiertos y con mucho reverb.</title>
+		<input type="text" maxlength="20" name="edmbigroom"></input>
+		<answer>Big Room</answer>
+		<answer>BigRoom</answer>
+		<answer>Bigroom</answer>
+		<answer>bigroom</answer>
+		<answer>big room</answer>
+		<answer>big Room</answer>
+	</question>
+	<question id="sextaPregunta">
+		<separador>Sexta pregunta:</separador>
+		<title>6. ¿Quien de esta lista ha sido TOP 1 de la Revista DJ Mag por tres años consecutivos?</title>
+		<option>Hardwell.</option>
+		<option>Ummet Ozcan.</option>
+		<option>David Guetta.</option>
+		<option>Martin Garrix.</option>
+		<option>Skrillex.</option>
+		<option>Headhunterz.</option>
+		<answer>0</answer>
+		<answer>3</answer>
+	</question>
+	<question id="septimaPregunta">
+		<separador>Septima pregunta:</separador>
+		<title>7. Dime el nombre de uno de los mejores artistas de música electrónica que falleció en el 20 de abril de 2018.</title>
+		<input type="text" maxlength="20" name="edmavicii"></input>
+		<answer>Avicii</answer>
+		<answer>avicii</answer>
+  </question>
+	<question id="octavaPregunta">
+		<separador>Octava pregunta:</separador>
+		<title>8. Di cuál de estos varios programas és para producir música electrónica.</title>
+		<option>Fl Studio</option>
+		<option>Pepis Pro.</option>
+		<option>Logic Pro Y.</option>
+		<option>Logic RY.</option>
+		<answer>0</answer> <!-- Seleccion Multiple */ -->
+  </question>
+	<question id="novenaPregunta">
+		<separador>Novena pregunta:</separador>
+		<title>9. ¿Cuándo fueron los inicios de la música electrónica?</title>
+		<option>Comienzos del siglo XXI</option>
+		<option>Años 90</option>
+		<option>Años 80</option>
+		<option>Años 60</option>
+		<answer>2</answer>
+  </question>
+	<question id="decimaPregunta">
+		<separador>Decima pregunta:</separador>
+		<title>10. ¿Cuál es la mayor discográfica (en cuanto a popularidad) de música electrónica?</title>
+		<option>Revealed Recordings</option>
+		<option>Spinnin' Records</option>
+		<option>Armada Music</option>
+		<option>STMPD Recordings</option>
+		<answer>1</answer>
+  </question>
+	<despedida>GRACIAS POR HABER RELLENADO ESTE EXAMEN. ¡BUENA SUERTE!</despedida>
+</questions>
